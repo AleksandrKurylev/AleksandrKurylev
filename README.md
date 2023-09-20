@@ -1,31 +1,18 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Александр Курылев ============ =============================================== =============================================== ======================== Более 10 лет занимаюсь анализом бизнес-процессов в коммерческих фирмах, используя для этого различные инструменты. Строю прогнозные модели. * 🌍Я живу в М * ✉️Связаться со мной можно по адресу [5ask@mail.ru](mailto:5ask@mail.ru)
-
-### Навыки
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https: // git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored .svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target ="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www . postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg " width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">< img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+# 💫 About Me:
+Более 10 лет занимаюсь анализом бизнес процессов в коммерческих фирмах, используя для этого различные инструменты. Строю прогнозные модели.<br>Сейчас изучаю новый инструмент - машинное обучение.<br>Основные навыки:<br>- Excel (Power Query, Power pivot)<br>- SQL (оконные функции, процедуры, джобы )<br>- Python (Pandas, numpy, seaborn, matplotlib, sklearn, подключение к БД, работа с API, парсинг)<br>- Статистика (Описательная статистика, проверка гипотез, бутстрап)<br>- Tableau<br>- Знание продуктовых и маркетинговых метрик (LTV,ARPU,ROMI,CPA, CTR и тд), моделей атрибуций<br>- Основы машинного обучения (Лин регрессия, Логистическая регрессия, деревья решений, Кластеризация)<br>
 
 
-### Социальные сети
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ale) 
 
-<p align="left"> <a href="https://www.github.com/AleksandrKurylev" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает -color-scheme: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(предпочитает -color-scheme: светлый)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AleksandrKurylev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AleksandrKurylev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrKurylev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Значки
+---
+[![](https://visitcount.itsvg.in/api?id=AleksandrKurylev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<b>Моя статистика GitHub</b>
-
-<a href="http://www.github.com/AleksandrKurylev"><img src="https://github-readme-stats.vercel.app/api?username=AleksandrKurylev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="Статистика Александра Курылева на GitHub" /></a>
-
-<a href="http://www.github.com/AleksandrKurylev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AleksandrKurylev&stroke=ffffff&background=1c1917&ring=0891b2&fire= 0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/AleksandrKurylev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrKurylev&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Лучшие языки" /></a>
-
-### Поддержите меня
-
-<ul style="list-style-type: none; Margin: 0;">
-
-<li style="display: inline-block;margin-right: 0,25rem;"><a href="https://www.buymeacoffee.com/AleksandrKurylev"><img src="https://cdn.buymeacoffee .com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
