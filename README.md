@@ -1,7 +1,7 @@
+
 <img src="https://github.com/AleksandrKurylev/AleksandrKurylev/blob/main/service/map1.gif" width="100%" height="150"/>
 
-
-# 💫 D A T A 💫   A N A L Y S T 💫
+<h1 align="center"> 💫 D A T A 💫   A N A L Y S T 💫 </h1>
 
 ## Здравствуйте, меня зовут Александр! Добро пожаловать в мой профиль на GitHub! 
 
