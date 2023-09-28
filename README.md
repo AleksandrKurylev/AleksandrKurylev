@@ -1,4 +1,4 @@
-<img src="service/dig.gif" width="100%" height="50"/>
+<img src="service/dig.gif" width="100%" height="100"/>
 
 <h1 align="center"> 💫 D A T A 💫   A N A L Y S T 💫 </h1>
 
