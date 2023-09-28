@@ -1,5 +1,5 @@
 
-<img src="service/map1.gif" width="100%" height="150"/>
+<img src="service/map1.gif" width="100%" height="250"/>
 
 <h1 align="center"> 💫 D A T A 💫   A N A L Y S T 💫 </h1>
 
