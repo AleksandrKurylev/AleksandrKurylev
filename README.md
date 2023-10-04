@@ -1,6 +1,6 @@
 <img src="service/dig44.gif" width="100%" height="100"/>
 
-<h1 align="center"> DATA  ANALYST 💫 АНАЛИТИК ДАННЫХ </h1>
+<h1 align="center"> 💫 DATA  ANALYST 💫 АНАЛИТИК ДАННЫХ 💫 </h1>
 
 ## Здравствуйте, меня зовут Александр! Добро пожаловать в мой профиль на GitHub! 
 
